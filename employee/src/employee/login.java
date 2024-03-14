@@ -1,8 +1,6 @@
 package employee;
-//kjgf
-//jvhgus
-//jnbfjk
-//jkvhfuvi
+//76589
+//o548
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
